@@ -1,0 +1,15 @@
+{
+    "name": "blmundo/php_mvc_custom_creation",
+    "autoload": {
+        "psr-4": {
+            "Blmundo\\PhpMvcCustomCreation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hitch95",
+            "email": "bahloul.condorcet@gmail.com"
+        }
+    ],
+    "require": {}
+}
