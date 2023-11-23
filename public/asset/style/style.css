@@ -1,0 +1,24 @@
+.pair {
+    color: green;
+}
+.impair {
+    color: red;
+}
+.error {
+    color: red;
+}
+
+h1 {
+    color: black;
+}
+body {
+    background-color: white;
+}
+
+a {
+    
+}
+
+a:hover {
+    text-decoration: none;
+}

@@ -15,7 +15,7 @@ $router->addRoute('GET', '/', [HomeController::class, 'index']);
 
 $router->addRoute('GET', '/random-number', [RandomNumberController::class, 'show']);
 
-$router->addRoute('GET', '/even-numbers', [EvenNumbersController::class, 'index']);
+$router->addRoute('GET', '/even-numbers', [EvenNumbersController::class, 'showForm']);
 $router->addRoute('POST', '/even-numbers', [EvenNumbersController::class, 'checkEven']);
 
 // Exécution du routeur

@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Accueil</title>
+    <link rel="stylesheet" href="/asset/style/style.css">
     <!-- Liens CSS si nécessaire -->
 </head>
 
@@ -16,7 +17,7 @@
     </nav>
 
     <main>
-        <h1>Bienvenue sur notre site</h1>
+        <h1>This is a mini MVC framework in php</h1>
         <!-- Contenu de la page d'accueil -->
     </main>
 
